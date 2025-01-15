@@ -45,6 +45,16 @@ const menuData = {
             name: 'Caipirinha de Frutas Vermelhas',
             description: 'Cachaça artesanal, frutas vermelhas frescas e gelo',
             price: 'R$ 38,00'
+        },
+        {
+            name: 'Caipirinha de Limão',
+            description: 'Cachaça artesanal, limões frescos e gelo',
+            price: 'R$ 38,00'
+        },
+        {
+            name: 'Caipirinha de Cajú',
+            description: 'Cachaça artesanal, cajús frescos e gelo',
+            price: 'R$ 38,00'
         }
     ]
 };
