@@ -1,0 +1,59 @@
+body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
+.font-serif {
+    font-family: 'Playfair Display', Georgia, serif;
+}
+
+.hero-section {
+    height: 40vh;
+    background-image: url('https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80');
+    background-size: cover;
+    background-position: center;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.menu-item {
+    border-bottom: 1px solid rgba(255, 193, 7, 0.2);
+    padding-bottom: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.menu-item:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+}
+
+.menu-item h3 {
+    color: #ffc107;
+    font-family: 'Playfair Display', Georgia, serif;
+}
+
+.menu-item .description {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 0.9rem;
+}
+
+.btn-outline-warning {
+    border-color: #ffc107;
+    color: #ffc107;
+}
+
+.btn-outline-warning:hover,
+.btn-outline-warning.active {
+    background-color: #ffc107;
+    color: #000;
+}
+
+.btn-group .btn {
+    padding: 0.5rem 1rem;
+}
