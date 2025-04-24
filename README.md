@@ -17,4 +17,4 @@ Bem-vindo ao **WS Restaurante**, um aplicativo de menu de restaurante online! Es
 
 ## Link do Cardápio em Produção
 
-Acesse o cardápio em produção clicando [aqui](https://restaurante-teste.netlify.app/).
+Acesse o cardápio em produção clicando [aqui](https://cardapio-fogo-chao.netlify.app/).
