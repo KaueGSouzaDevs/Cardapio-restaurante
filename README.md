@@ -14,3 +14,7 @@ Bem-vindo ao **WS Restaurante**, um aplicativo de menu de restaurante online! Es
 - **JavaScript**: Para a interação e lógica do aplicativo.
 - **HTML**: Estrutura do projeto.
 - **CSS**: Estilização e design responsivo.
+
+## Link do Cardápio em Produção
+
+Acesse o cardápio em produção clicando [aqui](https://restaurante-teste.netlify.app/).
